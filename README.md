@@ -11,6 +11,7 @@
 - [Leonardo Vieira](#)
 - [Paulo Fernandes](#)
 - [Stefanne Soares](#)
+- [Felipe Caiafa](#)
 
 
 ---
