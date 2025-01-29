@@ -75,7 +75,7 @@ Ao apoiar o desenvolvimento contínuo das habilidades de comunicação dos líde
 
 ### **📖 Documentações Complementares:**  
 - 🔗 [Link 1](#)  
-- 🔗 [Link 2](#)  
+- 🔗 [https://docs.google.com/document/d/1euCrHkwNKHB5HGh8KKtfn8KMLB1fU8SBazQyamGl61Y/edit?tab=t.n5fec2c67y9d](#)
 - 🔗 [Link 3](#)  
 
 
