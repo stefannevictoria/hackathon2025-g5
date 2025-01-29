@@ -1,4 +1,4 @@
-# **🚀 Nome do Projeto**
+# **🚀 PROJETO ÍCARO**
 
 ### **🔗 Link do Agente GPT:**  
 > _[Insira o link do GPT criado aqui.]_
