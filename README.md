@@ -22,10 +22,11 @@ O projeto tem como objetivo principal apoiar líderes em sua jornada de aprimora
 Seu propósito é aprimorar a comunicação na liderança, uma vez que uma comunicação clara e eficaz é essencial para inspirar, motivar e orientar equipes. Através de uma abordagem educacional e prática, o projeto visa transformar líderes em profissionais mais capacitados para lidar com as nuances da comunicação, ajustando suas abordagens conforme a necessidade de sua equipe e do contexto organizacional.
 
 *Objetivos*
- Avaliar as habilidades de comunicação do líder: Através de um quiz interativo, o usuário pode avaliar seus pontos fortes e áreas a melhorar.
- Educar sobre práticas eficazes de comunicação: Por meio de explicações claras e aplicáveis, Ícaro ensina conceitos e metodologias que ajudam o líder a melhorar sua comunicação.
- Fornecer feedback contínuo e personalizado: O assistente oferece dicas práticas e ações para o desenvolvimento contínuo da liderança.
- Criar um impacto positivo nas equipes: Ao melhorar a comunicação do líder, espera-se que ele consiga melhorar o engajamento, o entendimento e a colaboração dentro de sua equipe.
+
+- Avaliar as habilidades de comunicação do líder: Através de um quiz interativo, o usuário pode avaliar seus pontos fortes e áreas a melhorar.
+- Educar sobre práticas eficazes de comunicação: Por meio de explicações claras e aplicáveis, Ícaro ensina conceitos e metodologias que ajudam o líder a melhorar sua comunicação.
+- Fornecer feedback contínuo e personalizado: O assistente oferece dicas práticas e ações para o desenvolvimento contínuo da liderança.
+- Criar um impacto positivo nas equipes: Ao melhorar a comunicação do líder, espera-se que ele consiga melhorar o engajamento, o entendimento e a colaboração dentro de sua equipe.
 
 *Funcionalidades*
 1. Quiz de Comunicação: O usuário pode realizar um quiz composto por 5 perguntas,  que avalia sua competência de comunicação em cenários práticos de liderança. O feedback detalhado após cada resposta ajuda o líder a identificar pontos de melhoria.
