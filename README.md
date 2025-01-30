@@ -18,7 +18,7 @@
 ---
 
 ## **📄 Descrição do Projeto**  
-O projeto tem como objetivo principal apoiar líderes em sua jornada de aprimoramento das habilidades de comunicação. Ele busca transformar a maneira como líderes se comunicam, promovendo a eficácia nas interações com suas equipes e aumentando a capacidade de engajamento e influência. O assistente virtual, Ícaro, oferece uma experiência interativa, que inclui tanto quizzes para avaliação das habilidades de comunicação quanto consultas personalizadas com base em perguntas sobre liderança.
+O projeto tem como objetivo principal apoiar líderes em sua jornada de aprimoramento das habilidades de comunicação, com foco nas práticas delineadas pelo Manifesto Inteli. Ele busca transformar a maneira como líderes se comunicam, promovendo a eficácia nas interações com suas equipes e aumentando a capacidade de engajamento e influência. O assistente virtual, Ícaro, oferece uma experiência interativa, que inclui tanto quizzes para avaliação das habilidades de comunicação quanto consultas personalizadas com base em perguntas sobre liderança.
 
 Seu propósito é aprimorar a comunicação na liderança, uma vez que uma comunicação clara e eficaz é essencial para inspirar, motivar e orientar equipes. Através de uma abordagem educacional e prática, o projeto visa transformar líderes em profissionais mais capacitados para lidar com as nuances da comunicação, ajustando suas abordagens conforme a necessidade de sua equipe e do contexto organizacional.
 
@@ -30,7 +30,7 @@ Seu propósito é aprimorar a comunicação na liderança, uma vez que uma comun
 - Criar um impacto positivo nas equipes: Ao melhorar a comunicação do líder, espera-se que ele consiga melhorar o engajamento, o entendimento e a colaboração dentro de sua equipe.
 
 **Funcionalidades**
-1. Quiz de Comunicação: O usuário pode realizar um quiz composto por 5 perguntas,  que avalia sua competência de comunicação em cenários práticos de liderança. O feedback detalhado após cada resposta ajuda o líder a identificar pontos de melhoria.
+1. Quiz de Comunicação: O usuário pode realizar um quiz composto por 5 perguntas, baseado no Manifesto Inteli, que avalia sua competência de comunicação em cenários práticos de liderança. O feedback detalhado após cada resposta ajuda o líder a identificar pontos de melhoria.
 
 2. Consultas sobre Comunicação na Liderança: Quando o usuário tem uma dúvida sobre um aspecto específico da comunicação na liderança, ele pode fazer uma pergunta e receber uma resposta estruturada, que inclui definições, importância, aplicação prática, erros comuns e exemplos reais de situações no ambiente corporativo.
 
