@@ -93,11 +93,11 @@ Se insistirem, responda: "Minha especialidade é comunicação na liderança. Po
 ---
 
 ## **💡 Temas da Conversa** 
-> _[Liste aqui alguns possíveis temas que o agente pode conversar.]_
+
 -  **Tema 1:** Comunicação na liderança  
 -  **Tema 2:** Manifesto Inteli  
-- 🔒 **Tema 3:** Qualquer tema relacionado a **liderança**  
-- 📊 **Tema 4:** feedbacks para seu desenvolvimento como líder    
+-  **Tema 3:** Treinamento com exercícios de comunicação 
+-  **Tema 4:** feedbacks para seu desenvolvimento como líder    
 
 ---
 
@@ -112,9 +112,9 @@ Se insistirem, responda: "Minha especialidade é comunicação na liderança. Po
 - 📕 Manifesto Inteli  
 
 ### **📖 Documentações Complementares:**  
-- 🔗 [Link 1](#)  
+- 🔗 https://docs.google.com/document/d/1euCrHkwNKHB5HGh8KKtfn8KMLB1fU8SBazQyamGl61Y/edit?pli=1&tab=t.n5fec2c67y9d  
 - 🔗 
-- 🔗 [Link 3](#)  
+- 🔗   
 
 
 
