@@ -104,7 +104,7 @@ Se insistirem, responda: "Minha especialidade é comunicação na liderança. Po
 ## **📚 Bases de Conhecimento**  
 
 ### **⚠️ Prompts**
-- 📗 https://docs.google.com/document/d/17NMd3iZKFdlzxDKhzzt2j9qZ_t1bPi6ZcUnrLGZ_D3s/edit?usp=sharing
+- 📗 https://docs.google.com/document/d/17NMd3iZKFdlzxDKhzzt2j9qZ_t1bPi6ZcUnrLGZ_D3s/edit?tab=t.0
 
 ### **📘 Principais Referências Utilizadas:**  
 - 📗 Palestra **ChatGPT** com Ronaldo Lemos  
