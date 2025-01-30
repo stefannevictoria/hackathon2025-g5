@@ -113,8 +113,8 @@ Se insistirem, responda: "Minha especialidade é comunicação na liderança. Po
 
 ### **📖 Documentações Complementares:**  
 - 🔗 https://docs.google.com/document/d/1euCrHkwNKHB5HGh8KKtfn8KMLB1fU8SBazQyamGl61Y/edit?pli=1&tab=t.n5fec2c67y9d  
-- 🔗 
-- 🔗   
+- 🔗 https://drive.google.com/file/d/1gzboXJCmx6lv_rKqBi8wvm27idXi__N0/view
+   
 
 
 
