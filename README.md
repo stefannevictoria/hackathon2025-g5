@@ -1,7 +1,7 @@
 # **🚀 ÍCARO.IA**
 
 ### **🔗 Link do Agente GPT:**  
-> _[Insira o link do GPT criado aqui.]_
+🔗: https://chatgpt.com/g/g-679bb90e98c08191af0b4c591e8328b3-icaro
 
 ---
 
