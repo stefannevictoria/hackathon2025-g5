@@ -8,10 +8,11 @@
 ## **👥 Integrantes do Grupo**  
 - [Anne Figueiroa](#)
 - [Bernardo Laurindo](#)
+- [Felipe Caiafa](#)
 - [Leonardo Vieira](#)
 - [Paulo Fernandes](#)
 - [Stefanne Soares](#)
-- [Felipe Caiafa](#)
+
 
 
 ---
