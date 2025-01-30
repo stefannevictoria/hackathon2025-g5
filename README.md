@@ -117,6 +117,6 @@ Se insistirem, responda: "Minha especialidade é comunicação na liderança. Po
 - 🔗 [Link 3](#)  
 
 
-Sugestão: Crie uma pasta chamada Base de Conhecimentos no repositório e adicione todos os conteúdos relevantes e utilizados dentro dessa pasta. Aponte os links para os arquivos nela.
+
 
 
